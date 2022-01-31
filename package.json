@@ -1,0 +1,25 @@
+{
+  "name": "instana-pino-transport",
+  "version": "1.0.0",
+  "description": "A self contained reproduction of incorrect process identification with pino transports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/instana-pino-transport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/instana-pino-transport/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/instana-pino-transport#readme",
+  "dependencies": {
+    "@instana/collector": "^1.137.5",
+    "pino": "^7.6.5",
+    "pino-pretty": "^7.5.1"
+  }
+}
